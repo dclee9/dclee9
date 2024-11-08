@@ -1,4 +1,17 @@
 ## Hi there 👋
+### 專長
+:cat: 空間設計 \
+:tiager: 流行疾病研究 \
+:cat2: LLM \
+
+### 經歷
+:ant: 輔仁大學進修部學生
+:dog: 網路公司工程師
+
+### 信箱
+:ant: bill@whitehouse.gov
+
+
 
 <!--
 **dclee9/dclee9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
