@@ -2,7 +2,7 @@
 ### 專長
 :cat: 空間設計 \
 :tiager: 流行疾病研究 \
-:cat2: LLM \
+:cat2: ChatGPT \
 
 ### 經歷
 :ant: 輔仁大學進修部學生
